@@ -15,12 +15,8 @@ The dataset comprises multiple factors associated with an individual's lifestyle
 
 ## Achievements
 
-I secured an impressive 2nd place in a competitive context by delivering exceptional results. The model achieved an outstanding F1 score of 87.63% on the private leaderboard. This achievement underscores the effectiveness of the ensemble learning approach and the meticulous data preprocessing.
+I secured an impressive 22nd place in Summer Analytics Hackathon by delivering exceptional results. The model achieved an outstanding F1 score of 87.63% on the private leaderboard. This achievement underscores the effectiveness of the ensemble learning approach and the meticulous data preprocessing.
 
-## Repository Structure
-
-- `code/`: Contains the Jupyter Notebook with the code for data preprocessing, model development, and evaluation.
-- `documentation/`: Contains any additional documentation related to the project.
 
 Feel free to explore the code and documentation to understand the approach and outcomes of the project. If you have any questions or suggestions, please don't hesitate to reach out.
 
